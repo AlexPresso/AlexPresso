@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://im4.ezgif.com/tmp/ezgif-4-08a340d0fab0.gif">
+  <img src="https://raw.githubusercontent.com/AlexPresso/AlexPresso/main/banner.gif">
 </p> 
 
 ---
