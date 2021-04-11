@@ -49,8 +49,8 @@ const others = {
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexPresso&show_icons=true&theme=dark&hide_border=true&custom_title=Statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPresso&layout=compact&theme=dark&hide_border=true&langs_count=5&card_width=445">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexPresso&show_icons=true&theme=dark&hide_border=true&custom_title=Statistics&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPresso&layout=compact&theme=dark&hide_border=true&langs_count=5&custom_title=Most used">
 </p>
 
 ---
