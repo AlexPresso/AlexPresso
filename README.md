@@ -14,7 +14,7 @@ const programming = {
   },
   technologies: {
     databases: ["PostgreSQL", "MySQL / MariaDB", "MongoDB", "Neo4J", "Microsoft SQL Server", "Oracle"],
-    javascript: ["NodeJS", "React", "NextJS", "SocketIO", "Discord.js", "Apollo GraphQL", "Express"],
+    javascript: ["NodeJS", "React", "NextJS", "SocketIO", "Discord.js", "Apollo GraphQL", "Express", "Pupeteer"],
     "c#": ["Entity Framework"],
     java: ["Spring", "Maven", "Gradle", "Reactor", "Discord4J", "HikariCP", "JDBI", "JDBC"],
     php: ["Symfony", "Doctrine", "Smarty", "Ratchet"],
@@ -30,7 +30,7 @@ const programming = {
 const sysadmin = {
   kernel: ["Windows", "UNIX"],
   favouriteDistro: "Debian",
-  security: ["netfilter-persistent", "iptables", "private keys", "ipset", "snort", "fail2ban", "sudo", "rkhunter"],
+  security: ["netfilter-persistent", "iptables", "private keys", "ipset", "snort", "pfsense", "fail2ban", "sudo", "rkhunter"],
   reverseProxies: ["nginx", "apache2", "traefik"],
   containers: ["docker"],
   "ci/cd": ["Gitlab CI/CD"]
