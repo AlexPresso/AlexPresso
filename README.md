@@ -21,7 +21,7 @@
         databases:  ["PostgreSQL", "MySQL / MariaDB", "MongoDB", "Neo4J", "Microsoft SQL Server", "Oracle"],
         re:         ["Ghidra", "IDA Pro", "Cheat Engine"],
         sysadmin:   ["Debian", "iptables", "ipset", "certificates", "snort", "pfsense", "fail2ban", "sudo", "nginx"],
-        devops:     ["Gitlab CI/CD", "Github Actions"]
+        devops:     ["Gitlab CI/CD", "Github Actions", "docker"]
     }
 }
 ```
