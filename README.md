@@ -29,8 +29,8 @@
 <h1></h1>
 
 <p align="center" style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexPresso&show_icons=true&hide_border=true&custom_title=Statistics&include_all_commits=true&theme=dark&bg_color=0d1117&line_height=27">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPresso&theme=dark&hide_border=true&langs_count=3&custom_title=Most%20used&bg_color=0d1117">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexPresso&show_icons=false&hide_border=true&custom_title=Statistics&include_all_commits=true&theme=dark&bg_color=0d1117&line_height=27">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPresso&theme=dark&hide_border=true&custom_title=Most%20used&bg_color=0d1117&layout=compact&langs_count=10">
 </p>
 
 <h1></h1>
