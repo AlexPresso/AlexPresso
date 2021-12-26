@@ -20,8 +20,8 @@
         javascript: ["NodeJS", "React", "NextJS", "SocketIO", "Discord.js", "Apollo GraphQL", "Express", "Pupeteer"],
         databases:  ["PostgreSQL", "MySQL / MariaDB", "MongoDB", "Neo4J", "Microsoft SQL Server", "Oracle"],
         re:         ["Ghidra", "IDA Pro", "Cheat Engine"],
-        sysadmin:   ["Debian", "iptables+ipset", "nftables" "certificates", "snort", "pfsense", "fail2ban", "sudo", "nginx"],
-        devops:     ["Gitlab CI/CD", "Github Actions", "docker"]
+        networking: ["iptables", "ipset", "nftables", "snort", "pfsense", "fail2ban", "nginx"],
+        devops:     ["Gitlab CI/CD", "Github Actions", "docker", "kubernetes"]
     }
 }
 ```
