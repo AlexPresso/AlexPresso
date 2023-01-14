@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex'</h1>
-<h3 align="center">A passionate fullstack developer and cyber-security administrator from <code>0x4348</code>.</h3>
+<h3 align="center">A passionate DevSecOps guy from <code>0x4348</code>.</h3>
 
 <h1></h1>
 
@@ -21,7 +21,7 @@
         databases:  ["PostgreSQL", "MySQL / MariaDB", "MongoDB", "Neo4J", "Microsoft SQL Server", "Oracle"],
         re:         ["Ghidra", "IDA Pro", "Cheat Engine"],
         networking: ["iptables", "ipset", "nftables", "snort", "pfsense", "fail2ban", "nginx"],
-        devops:     ["Gitlab CI/CD", "Github Actions", "docker", "kubernetes"]
+        ops:        ["Gitlab CI/CD", "Github Actions", "docker", "kubernetes"]
     }
 }
 ```
