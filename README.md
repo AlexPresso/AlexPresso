@@ -9,7 +9,7 @@
         back:       ["Java", "C#", "C", "C++", "PHP", "Go"],
         front:      ["Javascript", "CSS", "SASS/SCSS", "HTML"],
         query:      ["GraphQL", "SQL", "Cypher"],
-        lowLevel:   ["x86_64 Assembly"]
+        lowLevel:   ["x86_64 Assembly", "ARM"]
     },
     mainTechnologies: {
         java:       ["Spring", "Maven", "Gradle", "Reactor", "Discord4J", "HikariCP", "JDBI", "JDBC"],
@@ -19,9 +19,9 @@
         go:         ["GORM", "DiscordGo"],
         javascript: ["NodeJS", "React", "NextJS", "SocketIO", "Discord.js", "Apollo GraphQL", "Express", "Pupeteer"],
         databases:  ["PostgreSQL", "MySQL / MariaDB", "MongoDB", "Neo4J", "Microsoft SQL Server", "Oracle"],
-        re:         ["Ghidra", "IDA Pro", "Cheat Engine"],
+        re:         ["Ghidra", "IDA Pro", "Cheat Engine", "binwalk"],
         networking: ["iptables", "ipset", "nftables", "snort", "pfsense", "fail2ban", "nginx"],
-        ops:        ["Gitlab CI/CD", "Github Actions", "docker", "kubernetes"]
+        ops:        ["Gitlab CI/CD", "Github Actions", "docker", "kubernetes", "puppet", "ArgoCD"]
     }
 }
 ```
