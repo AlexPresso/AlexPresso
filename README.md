@@ -21,7 +21,8 @@
         databases:  ["PostgreSQL", "MySQL / MariaDB", "MongoDB", "Neo4J", "Microsoft SQL Server", "Oracle"],
         re:         ["Ghidra", "IDA Pro", "Cheat Engine", "binwalk"],
         networking: ["iptables", "ipset", "nftables", "snort", "pfsense", "fail2ban", "nginx"],
-        ops:        ["Gitlab CI/CD", "Github Actions", "docker", "kubernetes", "puppet", "ArgoCD"]
+        ops:        ["Gitlab CI/CD", "Github Actions", "docker", "kubernetes", "puppet", "ArgoCD"],
+        os:         ["Windows", "Debian", "Kali", "Arch"]
     }
 }
 ```
